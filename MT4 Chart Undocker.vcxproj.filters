@@ -33,4 +33,9 @@
   <ItemGroup>
     <None Include="Undock.mq4" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Undock.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
